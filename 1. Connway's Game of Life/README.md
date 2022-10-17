@@ -1,4 +1,5 @@
 [CAT]
+
 El DailyHack de les primeres dues setmanes està inspirat en "Conway's Game of Life".
 
 Per aquest primer repte, els participants haureu de programar un taulell dividit en cel·les sobre el que s'apliquin les regles del famós joc:
