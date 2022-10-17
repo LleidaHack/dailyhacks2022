@@ -13,15 +13,13 @@ Per aquest primer repte, els participants haureu de programar un taulell dividit
 Els requisits mínims per visualitzar i evaluar el joc són els següents:
 
 - S'haurà de programar una representació gràfica del taulell on es distingeixin visualment les cel·les vives de les mortes. 
-
 - S'han d'admetre dos modes diferents.
------ El primer és automàtic, on cada X temps el taulell s'actualitzarà sense acció de l'usuari que està executant el programa. Aquest temps haurà de ser suficientment gran com per a que es puguin observar les diverses iteracions del programa.
------ El segon mode és manual, on cada cop que l'usuari apreti un botó, el taulell avançarà al següent estat.
+  - El primer és automàtic, on cada X temps el taulell s'actualitzarà sense acció de l'usuari que està executant el programa. Aquest temps haurà de ser suficientment gran com per a que es puguin observar les diverses iteracions del programa.
+  - El segon mode és manual, on cada cop que l'usuari apreti un botó, el taulell avançarà al següent estat.
 
 A part de programar el taulell, cada participant del DailyHack haurà de proposar una llavor inicial. Aquesta llavor es tractarà d'una distribució concreta de cel·les habitades. S'haurà de presentar també una explicació de què fa la llavor, com s'ha trobat, especificacions concretes així com qualsevol altre aspecte que es consideri important. 
 
 S'evaluarà la presentació, l'originalitat de la llavor presentada i el raonament adjunt respecte a l'elecció d'aquesta
-
 
 Aquest repte estarà disponible per tots els participants de la HackEPS del dia 17 d'octubre de 2022 a les 9:00h al dia 30 d'octubre de 2022 a les 23:59h.
 
